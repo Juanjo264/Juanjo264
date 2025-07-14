@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Juan José Almengor Tizol</h1>
+<h1 align="center">👋 ¡Hola! Soy Juan Almengor </h1>
 <p align="center">
 🎓 Estudiante de Ingeniería en Ciencias y Sistemas <br>
 🚀 Apasionado por la tecnología, el desarrollo de software, la innovación digital y la nube. <br>
